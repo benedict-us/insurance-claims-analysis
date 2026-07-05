@@ -8,7 +8,7 @@ This project simulates a real-world business scenarion for Ubuntu Insurance Ltd,
 
 As a Junior Data Analyst, my role was to analyse customer, policy, and claims data to uncover business insights and recommend strategies to reduce reisk, improve profitability, and strengthen fraud prevention.
 
-## 2. Busniess Problem
+## 2. Business Problem
 Ubuntu Insurance Ltd was experiencing:
 * Increasing claims costs
 * Suspected fraudulent claims
