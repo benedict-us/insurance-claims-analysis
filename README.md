@@ -35,6 +35,21 @@ The dataset contains information relating to:
 * Fraud indicators
 
 ## 5. Key Fields
-### Category    |  Fields
-    Customer    |  Customer_ID, Age, Gender, Location, Income
-   Policy      |  Policy_ID, Policy_Type, Premium_Amount, Policy_Status
+### Category     |  Fields
+   Customer      |  Customer_ID, Age, Gender, Location, Income
+   Policy        |  Policy_ID, Policy_Type, Premium_Amount, Policy_Status
+   Claims        |  Claim_ID, Claim_Date, Claim_Amount, Claim_Status
+   Fraud         |  Fraud_Flag
+
+## 6. Tools Used
+Databricks (SQL)
+Power BI
+CSV/ Excel
+PowerPoint (Data Storytelling)
+GitHub (Project Documentation)
+
+## 7. Project Overflow
+#### a) Data Exploration
+Performed exploratory analysis using SQL to answer key business questions:
+* Total customers, policies, and claims.
+
