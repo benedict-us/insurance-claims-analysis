@@ -35,6 +35,6 @@ The dataset contains information relating to:
 * Fraud indicators
 
 ## 5. Key Fields
-# Category    |  Fields
-  Customer    |  Customer_ID, Age, Gender, Location, Income
-  Policy      |  Policy_ID, Policy_Type, Premium_Amount, Policy_Status
+### Category    |  Fields
+    Customer    |  Customer_ID, Age, Gender, Location, Income
+   Policy      |  Policy_ID, Policy_Type, Premium_Amount, Policy_Status
