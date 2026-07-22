@@ -55,4 +55,19 @@ Performed exploratory analysis using SQL to answer key business questions:
 #### b) Data Cleaning
 The raw dataset contained several data quality issues which were addressed using SQL on Databricks:
 * Remove duplicate records
+* Standardised categorical values
+* Handled null values
+* Corrected inconsistent text values
+* Standardised fraud indicators
+* Removed invalid records
+* Created a clean analytical dataset
+Final cleaned table: clean_insurance_data
+
+#### c) Dashboard Development
+Developed an interactive Power BI dashboard containing:
+* Total customers
+* Total claims
+* Sum of claim amount
+* Fraud cases
+* Loss ratio
 
