@@ -34,22 +34,25 @@ The dataset contains information relating to:
 * Claim status
 * Fraud indicators
 
-## 5. Key Fields
-### Category     |  Fields
-   Customer      |  Customer_ID, Age, Gender, Location, Income
-   Policy        |  Policy_ID, Policy_Type, Premium_Amount, Policy_Status
-   Claims        |  Claim_ID, Claim_Date, Claim_Amount, Claim_Status
-   Fraud         |  Fraud_Flag
-
-## 6. Tools Used
-Databricks (SQL)
-Power BI
-CSV/ Excel
-PowerPoint (Data Storytelling)
+## 5. Tools Used
+Databricks (SQL),
+Power BI,
+CSV/ Excel Spreadsheet,
+PowerPoint (Data Storytelling),
 GitHub (Project Documentation)
 
-## 7. Project Overflow
+## 6. Project Overflow
 #### a) Data Exploration
 Performed exploratory analysis using SQL to answer key business questions:
 * Total customers, policies, and claims.
+* Total claim amount
+* Claims by policy type
+* Fraud versus non-fraud claims
+* Top claim amounts
+* Claims by location
+* Claim trends over time
+
+#### b) Data Cleaning
+The raw dataset contained several data quality issues which were addressed using SQL on Databricks:
+* Remove duplicate records
 
