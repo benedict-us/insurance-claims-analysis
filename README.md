@@ -65,9 +65,29 @@ Final cleaned table: clean_insurance_data
 
 #### c) Dashboard Development
 Developed an interactive Power BI dashboard containing:
+
+###### KPI Cards
 * Total customers
 * Total claims
-* Sum of claim amount
+* Total claim amount
 * Fraud cases
 * Loss ratio
+###### Claims Analysis
+* Claims by policy type
+* Claims status breakdown
+* Claims over time
+###### Fraud Analysis
+* Fraud vs non-fraud
+* Fraud by policy type
+* Fraud by location
+###### Customer Insights
+* Premium vs claims
+* Claims by age group
+* Claims by gender
 
+## 7. Key Findings
+#### a) Financial Risk
+* Total claims amounted to approximately R11.61 million while premium income was approximately R0.69 million, suggesting that
+* Claims exceeded premium income by more than R10.9 million, creating significant profitable concerns.
+#### b) Most Risky Policy Types
+* 
