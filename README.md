@@ -115,3 +115,10 @@ Fraud was concentrated within specific provinces:
 #### d) Operational Improvments
 * Conduct periodic claims reviews.
 * Establish continuous fraud monitoring dashboards.
+
+## 9. Author
+Name: Kopano Mofokeng
+Profession: Data Analyst
+Email: kopanom012@gmail.com
+Linkedin: www.linkedin.com/in/kopanomofokeng/
+
