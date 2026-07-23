@@ -87,7 +87,31 @@ Developed an interactive Power BI dashboard containing:
 
 ## 7. Key Findings
 #### a) Financial Risk
-* Total claims amounted to approximately R11.61 million while premium income was approximately R0.69 million, suggesting that
+* Total claims amounted to approximately R11.61 million while premium income was approximately R0.69 million,## suggesting that
 * Claims exceeded premium income by more than R10.9 million, creating significant profitable concerns.
 #### b) Most Risky Policy Types
-* 
+* Auto and health insurance recorded the highest claim volumes.
+* Home insurance recorded the highest fraud## incidence.
+#### c) Fraud Insights
+Fraud was concentrated within specific provinces:
+* KwaZulu-Natal
+* Free State
+* Western Cape
+#### d) High-Risk Customer Segments
+* Customers aged 25-60 represented the largest proportion of claims, ##"which ironically is our largest and most active customer base."
+* Health, auto, and life policies generated the highest claim activity.
+* The combination of customer age, policy type, and location increased risk exposure.
+
+## 8. Business Recommendations
+#### a) Fraud Prevention
+* Strengthen fraud detection controls in high-risk provinces.
+* Introduce enhanced fraud monitoring for home insurance claims.
+#### b) Pricing Strategy
+* Implement risk-based pricing models for high-risk customer segments.
+* Review premium structures for high-frequency claim categories.
+#### c) Customer Growth Strategy
+* Focus acquisition efforts on lower-risk customer segments.
+* Develop targeted retention campaigns for profitable customers.
+#### d) Operational Improvments
+* Conduct periodic claims reviews.
+* Establish continuous fraud monitoring dashboards.
